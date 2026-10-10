@@ -28,23 +28,8 @@ focus:
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · Angular  
 **State & Data:** Redux Toolkit · Zustand · TanStack Query  
-**Backend:** Node.js · Hono · PostgreSQL · Drizzle ORM · REST APIs · Webhooks  
+**Backend:** Node.js · Expressjs · Nestjs · Hono · PostgreSQL · Drizzle ORM · REST APIs · Webhooks  
 **Platform:** AWS · Cloudflare Workers · Docker · GitHub Actions · Jenkins  
 **Quality:** Vitest · Unit Testing · Regression Validation · Code Review · Performance Profiling
-
-## Selected public work
-
-### [PII Detector Chat Application](https://github.com/osmarVave96/take-home-manager)
-A Next.js application for detecting personally identifiable information in uploaded files and exploring the results through an AI-assisted conversational interface.
-
-**Next.js 15 · React 19 · TypeScript · Tailwind CSS · Google Gemini**
-
-> Most of my recent production work is in private or client-owned repositories. This profile highlights a small public subset; more context is available in my [portfolio](https://vavohportfolio.vercel.app).
-
-## Currently exploring
-
-📱 Expanding my React background into **React Native / mobile product development**.
-
----
 
 I'm interested in technically challenging product work, freelance collaborations, and projects where strong frontend architecture and pragmatic full-stack ownership matter.
