@@ -18,4 +18,3 @@ Based in Mexico, with 6+ years of experience building and modernizing production
 **Platform:** AWS · Cloudflare Workers · Docker · GitHub Actions · Jenkins  
 **Quality:** Vitest · Unit Testing · Regression Validation · Code Review · Performance Profiling
 
-> Most of my recent production work lives in private or client-owned repositories.
