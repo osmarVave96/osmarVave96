@@ -11,7 +11,6 @@ Based in Mexico, with 6+ years of experience building and modernizing production
 - 📱 Currently expanding my experience into **React Native and mobile development**
 - 👯 I’m looking to collaborate on **frontend, backend, and AI-integrated projects** using React, Next.js, Node.js, TypeScript, and related technologies
 - 📫 Reach me: [ing.osmarvera@gmail.com](mailto:ing.osmarvera@gmail.com)
-- 🤝 Professional references available upon request
 
 ## Tech
 
